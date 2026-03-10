@@ -2,7 +2,6 @@ import { Header } from '@/components/Header'
 import { Hero } from '@/components/Hero'
 import { BirthdayWish } from '@/components/BirthdayWish'
 import { TabsSection } from '@/components/TabsSection'
-import { MessagesList } from '@/components/MessagesList'
 import { Gallery } from '@/components/Gallery'
 import { Footer } from '@/components/Footer'
 import { FloatingElements } from '@/components/FloatingElements'
@@ -19,7 +18,6 @@ const Index = () => {
         <Hero />
         <BirthdayWish />
         <TabsSection />
-        <MessagesList />
         <Gallery />
       </main>
       <Footer />

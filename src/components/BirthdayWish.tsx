@@ -8,19 +8,18 @@ export function BirthdayWish() {
           </h2>
           <div className="space-y-6 text-lg md:text-xl leading-relaxed">
             <p className="font-medium">
-              On this beautiful day, we want you to know how truly special you are to all of us.
+              On this beautiful day, I just want to remind you how truly wonderful you are.
             </p>
             <p>
-              Your laughter fills our hearts with joy, your kindness touches everyone around you, 
-              and your friendship is a gift we treasure every single day.
+              Your smile brings warmth to everyone around you, your kindness leaves a lasting mark, 
+              and having you in my life is something I am genuinely grateful for.
             </p>
             <p>
-              As you celebrate another year of life, may you be surrounded by love, 
-              blessed with happiness, and filled with excitement for all the wonderful 
-              adventures that lie ahead.
+              As you begin another chapter of your journey, may your days be filled with happiness, 
+              your dreams continue to grow, and every moment ahead bring something beautiful into your life.
             </p>
             <p className="text-2xl font-dancing font-semibold gradient-text">
-              You deserve all the magic this world has to offer! ✨
+              May this year be full of joy, memories, and everything that makes you smile. 
             </p>
           </div>
         </div>

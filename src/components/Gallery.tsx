@@ -5,32 +5,32 @@ import { Button } from '@/components/ui/button'
 const galleryImages = [
   {
     id: 1,
-    src: '/images/gallery1.jpg',
+    src: '/images/gallery1.jpeg',
     alt: 'A',
   },
   {
     id: 2,
-    src: '/images/gallery2.jpg',
+    src: '/images/gallery2.jpeg',
     alt: 'B',
   },
   {
     id: 3,
-    src: '/images/gallery3.jpg',
+    src: '/images/gallery3.jpeg',
     alt: 'C',
   },
   {
     id: 4,
-    src: '/images/gallery4.jpg',
+    src: '/images/gallery4.jpeg',
     alt: 'D',
   },
   {
     id: 5,
-    src: '/images/gallery5.jpg',
+    src: '/images/gallery5.jpeg',
     alt: 'E',
   },
   {
     id: 6,
-    src: '/images/gallery6.jpg',
+    src: '/images/gallery6.jpeg',
     alt: 'F',
   },
 ]

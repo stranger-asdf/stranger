@@ -7,14 +7,14 @@ export function Hero() {
             Happy Birthday
           </h1>
           <h2 className="text-4xl md:text-6xl font-dancing text-primary mb-12">
-            Sarah! 🎉
+            Chitti 🎉
           </h2>
         </div>
 
         <div className="flex justify-center mb-12 scale-in" style={{ animationDelay: '0.3s' }}>
           <div className="polaroid">
             <img 
-              src="/images/hero.jpg" 
+              src="/images/hero.jpeg" 
               alt="Birthday person" 
               className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-lg"
             />
@@ -27,12 +27,12 @@ export function Hero() {
           </div>
         </div>
 
-        <div className="fade-in-up" style={{ animationDelay: '0.6s' }}>
-          <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Today we celebrate you and all the joy you bring into our lives. 
-            Here's to another year of adventures, laughter, and beautiful memories! 
-          </p>
-        </div>
+       <div className="fade-in-up" style={{ animationDelay: '0.6s' }}>
+  <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
+    Today is all about celebrating you — your smile, your kindness, and the happiness you bring to everyone around you. 
+    May this new year of your life be filled with wonderful moments, unforgettable memories, and everything that makes you truly happy.
+  </p>
+</div>
       </div>
     </section>
   )
